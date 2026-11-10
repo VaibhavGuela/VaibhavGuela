@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="./terminal.svg?v=2"
+    src="./terminal-2.svg
     alt="Vaibhav Guela - Terminal Profile"
     width="100%"
   />
